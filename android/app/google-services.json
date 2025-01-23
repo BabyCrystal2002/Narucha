@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "993542594824",
+    "firebase_url": "https://onlinefirebase-141f8-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-141f8",
+    "storage_bucket": "onlinefirebase-141f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993542594824:android:4a5ff9d4b9789a39274cbd",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_narucha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKu_Ta0dyM553iCNh1btMNZrpZjl_0T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
